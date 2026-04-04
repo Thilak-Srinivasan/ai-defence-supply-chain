@@ -346,14 +346,8 @@ ai-defence-supply-chain/
 │   ├── model_training.py            # RF + Linear Regression training pipeline
 │   ├── risk_scoring.py              # Risk prediction and normalization (0–10 scale)
 │   └── recommendation_engine.py     # Alternative sourcing recommendation logic
-├── outputs/
-│   ├── risk_forecast_bar.png        # Fig 4 — Simulated Risk Forecast bar chart
-│   ├── feature_importance.png       # Feature importance plot (Last Conflict Year 56.1%)
-│   └── vulnerability_heatmap.png    # Vulnerability assessment across systems
 ├── data/
 │   └── synthetic_geopolitical.csv   # Sample synthetic signal dataset (non-classified)
-├── paper/
-│   └── AI_Based_Preventive_Maintenance_LEAD2025.pdf
 ├── appendix/
 │   ├── A1_cow_dispute_durations.csv # Sample processed MID durations (Table A.1)
 │   ├── A2_data_preparation.py       # Appendix A.2 — full data prep code
