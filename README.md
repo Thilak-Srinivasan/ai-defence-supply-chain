@@ -315,7 +315,7 @@ ai-defence-supply-chain/
 
 ---
 
-**Authors:** Thilak S · Aditya Raj · Bharat Raj Singal | Department of Mechanical Engineering, BITS Pilani  
-**Supervisor:** Dr. Phaneendra Kiran Chaganti | BITS Pilani, Hyderabad Campus  
-**Venue:** LEAD 2025 Conference  
+**Authors:** Thilak S · Aditya Raj · Bharat Raj Singal | Department of Mechanical Engineering | BITS Pilani, Pilani Campus \
+**Supervisor:** Dr. Phaneendra Kiran Chaganti | Department of Mechanical Engineering | BITS Pilani, Hyderabad Campus \
+**Venue:** LEAD 2025 Conference  \
 **Contact:** [f20220771@pilani.bits-pilani.ac.in](mailto:f20220771@pilani.bits-pilani.ac.in)
