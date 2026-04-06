@@ -2,7 +2,7 @@
 
 > **Conference Paper | LEAD 2025 | BITS Pilani**  
 > Thilak S · Aditya Raj · Bharat Raj Singal · Dr. Phaneendra Kiran Chaganti  
-> Department of Mechanical Engineering, BITS Pilani, Pilani Campus  
+> Department of Mechanical Engineering, BITS Pilani 
 > `{f20220771, f20221583, f20221151}@pilani.bits-pilani.ac.in` · `cpkiran@hyderabad.bits-pilani.ac.in`
 
 A **Random Forest + Linear Regression** AI framework for defence supply chain risk quantification, geopolitical scenario modelling, and spare parts demand forecasting across India's critical military platforms — S-400 Triumf, Rafale Fighter Jet, AH-64E Apache, Barak Missiles, and K9 Thunder Artillery.
